@@ -12,4 +12,4 @@ def printMax(x, y):
 
 printMax(3, 5)
 print(printMax.__doc__)
-help(printMax)
+# help(printMax)
