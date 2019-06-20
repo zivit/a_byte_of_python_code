@@ -1,1 +1,1 @@
-# a_byte_of_python_code
+# A byte of Python code
